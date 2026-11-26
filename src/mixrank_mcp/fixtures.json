@@ -1,0 +1,385 @@
+{
+  "/appstore/sdks/{sdk_slug}": {
+    "company": {
+      "id": 81764746,
+      "name": "Meta",
+      "slug": "facebook"
+    },
+    "current_installs": 871829,
+    "description": "The FBSDKMessengerSharer is used to share media from apps into Messenger. The underlying mechanism used to share data between apps is UIPasteboard",
+    "logo_url": "https://s3.amazonaws.com/mr-sdk-logos/logos/2316df3665cdf401b070797e33d90f16",
+    "name": "Facebook",
+    "publisher_count": 404393,
+    "slug": "facebook",
+    "tags": [
+      "software-library",
+      "cloud-services",
+      "analytics"
+    ],
+    "total_installs": 939205,
+    "uninstalls": 67376,
+    "url": "https://developers.facebook.com/docs/reference/ios/current/class/FBSDKMessengerSharer/"
+  },
+  "/appstore/sdks/{sdk_slug}/installs": {
+    "offset": 0,
+    "page_size": 4,
+    "results": [
+      {
+        "bundle_id": "com.facebook.Facebook",
+        "company": {
+          "id": 141327039,
+          "name": "Meta Platforms Inc",
+          "slug": "41277281"
+        },
+        "company_url": "http://www.facebook.com/mobile",
+        "configs_count": 50427,
+        "content_rating": "12+",
+        "content_rating_details": "Infrequent/Mild Guns or Other Weapons , Age Assurance , Infrequent/Mild Alcohol, Tobacco, or Drug Use or References , Advertising , Messaging and Chat , Advisory.YES.SOCIAL_MEDIA , Parental Controls...",
+        "copyright": "\u00a9 2023 Meta",
+        "developer": "Meta Platforms, Inc.",
+        "developer_id": 284882218,
+        "downloaded": true,
+        "genre": "Social Networking",
+        "genres": [
+          "Social Networking"
+        ],
+        "id": 284882215,
+        "large_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a0/a8/8aa0a82f-fcd1-b9b4-f664-28b5389f2886/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+        "privacy_policy_url": "http://www.facebook.com/about/privacy/",
+        "rank": 17,
+        "rating": 4.45,
+        "rating_count": 106008288,
+        "release_date": "2014-04-18",
+        "review_count": 1053213,
+        "score": 0.59,
+        "seller": "Meta Platforms, Inc.",
+        "small_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a0/a8/8aa0a82f-fcd1-b9b4-f664-28b5389f2886/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.png",
+        "support_url": "http://www.facebook.com/help/?page=18834",
+        "title": "Facebook",
+        "upload_date": "2026-10-07",
+        "version": {
+          "version_number": "582.0.0",
+          "version_string": "15987691"
+        },
+        "xlarge_artwork_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a0/a8/8aa0a82f-fcd1-b9b4-f664-28b5389f2886/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.png"
+      }
+    ],
+    "total": 1
+  },
+  "/companies": {
+    "offset": 0,
+    "page_size": 4,
+    "results": [
+      {
+        "address": {
+          "city": "San Francisco, California",
+          "country": "United States",
+          "postal_code": "94107",
+          "region": "California",
+          "street_address": "164 Townsend Unit 4"
+        },
+        "appstore": {
+          "app_count": 0,
+          "sdk_count": 0
+        },
+        "employees": 101,
+        "id": 82017665,
+        "industries": [
+          {
+            "id": 97,
+            "is_primary": true,
+            "name": "Market Research"
+          }
+        ],
+        "linkedin": {
+          "country": "US",
+          "description": "MixRank is the B2B data intelligence layer that data teams, AI builders, and GTM leaders trust for fresh, comprehensive demographic, firmographic, and technographic data.",
+          "employee_count": 101,
+          "follower_count": 20558,
+          "founded": 2011,
+          "id": 2476210,
+          "locations": [
+            {
+              "address": "San Francisco, California 94107, US",
+              "is_primary": true
+            }
+          ],
+          "logo_url": "https://cdn.mixrank.com/md5/948adb5f520ea41ab9f831ea1f00f0c8",
+          "name": "MixRank",
+          "similar_pages": [
+            72596476,
+            36096640,
+            19034488
+          ],
+          "size": "11-50 employees",
+          "specialties": [
+            "B2B Data",
+            "Firmographics",
+            "Technographics"
+          ],
+          "type": "Privately Held",
+          "url": "https://www.linkedin.com/company/mixrank",
+          "website": "https://mixrank.com"
+        },
+        "naics": [
+          {
+            "id": "541910",
+            "name": "Marketing Research and Public Opinion Polling"
+          }
+        ],
+        "name": "MixRank",
+        "playstore": {
+          "app_count": 0,
+          "sdk_count": 0
+        },
+        "rank": 145024,
+        "rank_fortune": null,
+        "rank_incmagazine": null,
+        "rank_internetretailer": null,
+        "score": 0.62,
+        "sic": [
+          {
+            "id": "8732",
+            "name": "Commercial Economic, Sociological, and Educational Research"
+          }
+        ],
+        "slug": "mixrank",
+        "web": {
+          "site_count": 1,
+          "tag_count": 0
+        }
+      }
+    ],
+    "total": 1
+  },
+  "/companies/match": {
+    "offset": null,
+    "page_size": null,
+    "results": [
+      {
+        "address": {
+          "city": "San Francisco, California",
+          "country": "United States",
+          "postal_code": "94107",
+          "region": "California",
+          "street_address": "164 Townsend Unit 4"
+        },
+        "appstore": {
+          "app_count": 0,
+          "sdk_count": 0
+        },
+        "company_financials": {
+          "funding": {
+            "round_count": 3,
+            "rounds": [
+              {
+                "amount": 250000,
+                "announced_date": "2016-03-26",
+                "currency": "USD",
+                "deal_status": "announced",
+                "investors": [
+                  "Lighter Capital, Inc."
+                ],
+                "lead_investor": "Lighter Capital, Inc.",
+                "round_type": "Debt financing"
+              }
+            ],
+            "total_funding": 2000000,
+            "total_funding_currency": "USD"
+          }
+        },
+        "employees": 101,
+        "id": 82017665,
+        "industries": [
+          {
+            "id": 97,
+            "is_primary": true,
+            "name": "Market Research"
+          }
+        ],
+        "linkedin": {
+          "country": "US",
+          "description": "MixRank is the B2B data intelligence layer that data teams, AI builders, and GTM leaders trust for fresh, comprehensive demographic, firmographic, and technographic data.",
+          "employee_count": 101,
+          "follower_count": 20558,
+          "founded": 2011,
+          "id": 2476210,
+          "locations": [
+            {
+              "address": "San Francisco, California 94107, US",
+              "is_primary": true
+            }
+          ],
+          "logo_url": "https://cdn.mixrank.com/md5/948adb5f520ea41ab9f831ea1f00f0c8",
+          "name": "MixRank",
+          "similar_pages": [
+            72596476,
+            36096640,
+            19034488
+          ],
+          "size": "11-50 employees",
+          "specialties": [
+            "B2B Data",
+            "Firmographics",
+            "Technographics"
+          ],
+          "type": "Privately Held",
+          "url": "https://www.linkedin.com/company/mixrank",
+          "website": "https://mixrank.com"
+        },
+        "naics": [
+          {
+            "id": "541910",
+            "name": "Marketing Research and Public Opinion Polling"
+          }
+        ],
+        "name": "MixRank",
+        "playstore": {
+          "app_count": 0,
+          "sdk_count": 0
+        },
+        "rank": 145024,
+        "rank_fortune": null,
+        "rank_incmagazine": null,
+        "rank_internetretailer": null,
+        "score": 0.62,
+        "sic": [
+          {
+            "id": "8732",
+            "name": "Commercial Economic, Sociological, and Educational Research"
+          }
+        ],
+        "slug": "mixrank",
+        "web": {
+          "site_count": 1,
+          "tag_count": 0
+        }
+      }
+    ],
+    "total": 1
+  },
+  "/companies/{company_id}": {
+    "address": {
+      "city": "San Francisco, California",
+      "country": "United States",
+      "postal_code": "94107",
+      "region": "California",
+      "street_address": "164 Townsend Unit 4"
+    },
+    "appstore": {
+      "app_count": 0,
+      "sdk_count": 0
+    },
+    "employees": 101,
+    "id": 82017665,
+    "industries": [
+      {
+        "id": 97,
+        "is_primary": true,
+        "name": "Market Research"
+      }
+    ],
+    "linkedin": {
+      "country": "US",
+      "description": "MixRank is the B2B data intelligence layer that data teams, AI builders, and GTM leaders trust for fresh, comprehensive demographic, firmographic, and technographic data.",
+      "employee_count": 101,
+      "follower_count": 20558,
+      "founded": 2011,
+      "id": 2476210,
+      "locations": [
+        {
+          "address": "San Francisco, California 94107, US",
+          "is_primary": true
+        }
+      ],
+      "logo_url": "https://cdn.mixrank.com/md5/948adb5f520ea41ab9f831ea1f00f0c8",
+      "name": "MixRank",
+      "similar_pages": [
+        72596476,
+        36096640,
+        19034488
+      ],
+      "size": "11-50 employees",
+      "specialties": [
+        "B2B Data",
+        "Firmographics",
+        "Technographics"
+      ],
+      "type": "Privately Held",
+      "url": "https://www.linkedin.com/company/mixrank",
+      "website": "https://mixrank.com"
+    },
+    "naics": [
+      {
+        "id": "541910",
+        "name": "Marketing Research and Public Opinion Polling"
+      }
+    ],
+    "name": "MixRank",
+    "playstore": {
+      "app_count": 0,
+      "sdk_count": 0
+    },
+    "rank": 145024,
+    "rank_fortune": null,
+    "rank_incmagazine": null,
+    "rank_internetretailer": null,
+    "score": 0.62,
+    "sic": [
+      {
+        "id": "8732",
+        "name": "Commercial Economic, Sociological, and Educational Research"
+      }
+    ],
+    "slug": "mixrank",
+    "web": {
+      "site_count": 1,
+      "tag_count": 0
+    }
+  },
+  "/companies/{company_id}/employee-metrics": {
+    "results": [
+      {
+        "job_count_alltime": 733,
+        "job_count_current": 561,
+        "job_count_expired": 172,
+        "job_first_seen": "1964-04-01",
+        "job_last_seen": "2026-08-01",
+        "job_tag_id": 813,
+        "job_tag_label": "High School"
+      }
+    ],
+    "total": 1
+  },
+  "/companies/{company_id}/timeseries": {
+    "offset": 0,
+    "page_size": 100,
+    "results": [
+      {
+        "date": "2026-10-06",
+        "employee_count": 297958,
+        "facebook_like_count": null,
+        "linkedin_follower_count": 42470199,
+        "seomoz_link_count": null,
+        "twitter_follower_count": null
+      }
+    ],
+    "total": 1
+  },
+  "/echo": {
+    "status": "success"
+  },
+  "/email/validate": {
+    "email": "person@example.com",
+    "gateway": null,
+    "is_consumer": false,
+    "is_disposable": false,
+    "is_domain_catchall": null,
+    "mx_records": [],
+    "normalized": "person@example.com",
+    "retry_after": null,
+    "uses_greylist": null,
+    "validated_at": "2026-10-06T12:00:00",
+    "validity": "uncached"
+  }
+}
